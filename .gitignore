@@ -1,0 +1,6 @@
+# Godot 4+ 导入缓存，绝对不能提交（会有几十 MB 的机器相关数据）
+.godot/
+/android/
+
+# macOS
+.DS_Store
